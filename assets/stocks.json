@@ -1,0 +1,81 @@
+{
+    "metadata": [
+        {
+            "symbol": "ALFIRDOUS",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/ALFIRDOUS",
+            "isActive": true
+        },
+        {
+            "symbol": "DEWA",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/DEWA",
+            "isActive": true
+        },
+        {
+            "symbol": "DEYAAR",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/DEYAAR",
+            "isActive": true
+        },
+        {
+            "symbol": "DIB",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/DIB",
+            "isActive": true
+        },
+        {
+            "symbol": "DTC",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/DTC",
+            "isActive": true
+        },
+        {
+            "symbol": "DU",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/DU",
+            "isActive": true
+        },
+        {
+            "symbol": "EMAAR",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/EMAAR",
+            "isActive": true
+        },
+        {
+            "symbol": "SALIK",
+            "link": "https://www.mubasher.info/markets/DFM/stocks/SALIK",
+            "isActive": true
+        },
+        {
+            "symbol": "ADNOCDIST",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/ADNOCDIST",
+            "isActive": true
+        },
+        {
+            "symbol": "ADNOCGAS",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/ADNOCGAS",
+            "isActive": true
+        },
+        {
+            "symbol": "ADNOCLS",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/ADNOCLS",
+            "isActive": true
+        },
+        {
+            "symbol": "BOROUGE",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/BOROUGE",
+            "isActive": true
+        },
+        {
+            "symbol": "NBS",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/NBS",
+            "isActive": true
+        },
+        {
+            "symbol": "YAHSAT",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/YAHSAT",
+            "isActive": true
+        },
+		{
+            "symbol": "ETISALAT",
+            "link": "https://www.mubasher.info/markets/ADX/stocks/ETISALAT",
+            "isActive": true
+        }
+    ]
+
+
+}

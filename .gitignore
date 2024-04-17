@@ -1,0 +1,4 @@
+venv
+chromedriver-win64
+chrome-headless-shell-win64
+stock_price_updater.log

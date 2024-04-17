@@ -1,0 +1,62 @@
+{
+    "DEWA": {
+        "price": "2.38",
+        "last_updated": "2024-04-17T22:11:50.922775"
+    },
+    "ALFIRDOUS": {
+        "price": "0.33",
+        "last_updated": "2024-04-17T22:10:58.460157"
+    },
+    "DEYAAR": {
+        "price": "0.81",
+        "last_updated": "2024-04-17T22:11:04.051245"
+    },
+    "DIB": {
+        "price": "5.70",
+        "last_updated": "2024-04-17T22:11:17.777606"
+    },
+    "DTC": {
+        "price": "2.20",
+        "last_updated": "2024-04-17T22:11:03.343868"
+    },
+    "DU": {
+        "price": "5.55",
+        "last_updated": "2024-04-17T22:11:26.716014"
+    },
+    "EMAAR": {
+        "price": "8.36",
+        "last_updated": "2024-04-17T22:11:03.969220"
+    },
+    "SALIK": {
+        "price": "3.56",
+        "last_updated": "2024-04-17T22:11:31.963861"
+    },
+    "ADNOCDIST": {
+        "price": "3.51",
+        "last_updated": "2024-04-17T22:11:07.087672"
+    },
+    "ADNOCGAS": {
+        "price": "3.10",
+        "last_updated": "2024-04-17T22:11:51.578474"
+    },
+    "ADNOCLS": {
+        "price": "3.89",
+        "last_updated": "2024-04-17T22:11:13.835983"
+    },
+    "BOROUGE": {
+        "price": "2.42",
+        "last_updated": "2024-04-17T22:11:11.255441"
+    },
+    "NBS": {
+        "price": "2.21",
+        "last_updated": "2024-04-17T22:11:36.258182"
+    },
+    "YAHSAT": {
+        "price": "2.35",
+        "last_updated": "2024-04-17T22:11:13.200859"
+    },
+    "ETISALAT": {
+        "price": "17.83",
+        "last_updated": "2024-04-17T22:11:24.902997"
+    }
+}
