@@ -1,3 +1,4 @@
+import os
 import threading
 import logging
 
@@ -12,6 +13,7 @@ def summaryCard(drivers, threads):
     drivers (dict): A dictionary containing driver instances.
     threads (dict): A dictionary containing thread instances.
     """
+
     logger.info("\n" + "="*60)
     logger.info("{:^60}".format("System Summary"))
     logger.info("="*60)
@@ -20,6 +22,10 @@ def summaryCard(drivers, threads):
     active_threads = threading.enumerate()
     logger.info("{:<40} {:>20}".format("Total active threads:", len(active_threads)))
     logger.info("{:<40} {:>20}".format("Active WebDriver instances:", len(drivers)))
+    
+    parent_pid = get_parent_pid()
+    logger.info("{:<40} {:>20}".format("The parent process ID is:", parent_pid))
+
 
     # Log details of threads managed within this application
     logger.info("\n" + "-"*60)
@@ -37,3 +43,8 @@ def summaryCard(drivers, threads):
         logger.info("{:<20} {:<20} {:>20}".format(thread.name, "Alive" if thread.is_alive() else "Dead", f"ID={thread.ident}" ))
 
     logger.info("="*60 + "\n")
+
+
+def get_parent_pid():
+    parent_pid = os.getppid()
+    return parent_pid
